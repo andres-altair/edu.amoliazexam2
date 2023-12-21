@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.fondo{
+	background-color: gray;
+}
+.fondo1{
+	background-color: goldenrod;
+}
+.fondo2{
+	background-color: green;
+}
+.escribir :hover{
+	
+	background: blue;
+}
+.escribir1 :hover{
+	background: blue;
+}
+.escribir2 :hover{
+	background: blue;
+}
+
+.escribir3 :hover{
+	background: blue;
+}
+.escribir4 :hover{
+	background: blue;
+}
